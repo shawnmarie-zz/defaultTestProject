@@ -1,0 +1,11 @@
+#node_modules
+node_modules
+
+#JetBrains IDE Webstorm
+.idea
+
+#node
+npm-debug.log
+lifecycle/feature_tests/budgets/target/
+lifecycle/feature_tests/budgets/LogFiles/QA/*.xml
+lifecycle/feature_tests/budgets/LogFiles/QA/*.lck
